@@ -15,12 +15,11 @@ Maybe it will reveal itself on one of the following stats sometime ⏳?
 <p align="center">
 <img align="left" src="https://github-readme-stats.kreyoo.vercel.app/api?username=jvllmr&theme=synthwave&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img align="right" src="https://github-readme-stats.kreyoo.vercel.app/api/top-langs/?username=jvllmr&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&count_private=true&text_color=fff">
-</p>
-
-<p align="center">
 Besides being interested in anything related to computer science, I'm kind of a train nerd 🚂🤓.
 Oh, and my music taste? I mostly listen to metal 🎸 and meme-type 🤪 music.
 </p>
+
+
 <p align = "center">
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&bar_color=2a9726&bar_color_cover=true)"/></a>
 </p>
