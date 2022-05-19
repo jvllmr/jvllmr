@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" size="20">
 Hello there! 👋🏻
 
 
