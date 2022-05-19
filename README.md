@@ -1,8 +1,9 @@
 <p align="center">
 Hello there! 👋🏻
+I'm Jan Vollmer, a 20 y/o dual computer science student at NORDAKADEMIE.
 </p>
 <p align="center">
-I'm just a simple young man trying to create useful, not seen before software in Open-Source style.
+On GitHub, I'm just a simple young man trying to create useful, not seen before software in Open-Source style.
 </p>
 <p align="center">
 Although its not my particular favorite kind of project, I tend to create web-based ones most of the time and have most experience in that space.
