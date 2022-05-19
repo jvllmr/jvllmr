@@ -19,6 +19,6 @@ Besides being interested in anything related to computer science, I'm kind of a 
 
 Oh, and my music taste? I mostly listen to metal 🎸 and meme-type 🤪 music.
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kreyoo&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kreyoo&cover_image=true&theme=default&bar_color=2a9726&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&bar_color=2a9726&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true)
 
 
