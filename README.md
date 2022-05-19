@@ -6,7 +6,7 @@ But I'm not Kenobi. It's me, Jan Vollmer, a 20 y/o dual computer science student
 On GitHub, I'm just a simple young man trying to create useful, not seen before software in Open-Source style.
 </p>
 <p align="center">
-Although its not my particular favorite type of project, I tend to bring into action web-based ideas most of the time and have most experience in that space.
+Although it's not my favorite type of project in particular, I tend to bring web-based ideas to fruition and have the most experience in this area.
 That is one of the reasons why I first started gaining advanced coding experience with Python 🐍 and most recently fell in love with TypeScript 🟦.
 </p>
 <p align="center">
