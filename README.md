@@ -32,7 +32,7 @@ Oh, and my music taste? I mostly listen to metal 🎸 and meme-type 🤪 music.
 </p>
 <hr>
 <p align = "center">
- <a href="https://spotify-github-profile.vercel.app/api/view?uid=jvllmr&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=jvllmr&cover_image=true&theme=default&bar_color=2a9726&bar_color_cover=true)"/></a>
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </p>
 
 
