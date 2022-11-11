@@ -5,7 +5,7 @@
 <hr>
 <p align="center">
 Hello there! 👋🏻
-But I'm not Kenobi. It's me, Jan Vollmer, a 20 y/o dual computer science student. What do I mean with dual student? As a dual student I study at university and work for / earn practical skills at a partnering company outside of the semester. It's a form of study which is getting more and more common in Germany.
+But I'm not Kenobi. It's me, Jan Vollmer, a 21 y/o dual computer science student. What do I mean with dual student? As a dual student I study at university and work for / earn practical skills at a partnering company outside of the semester. It's a form of study which is getting more and more common in Germany.
 </p>
 <p align="center">
 On GitHub, I'm just a simple young man trying to create useful, not seen before software in Open-Source style.
