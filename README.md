@@ -5,10 +5,10 @@
 <hr>
 <p align="center">
 Hello there! 👋🏻
-But I'm not Kenobi. It's me, Jan Vollmer, a 22 y/o dual computer science student. What do I mean with dual student? As a dual student I study at university and work for / earn practical skills at a partnering company outside of the semester. It's a form of study which is getting more and more common in Germany.
+It's me, Jan Vollmer. A 22 y/o computer science student from nothern Germany.
 </p>
 <p align="center">
-On GitHub, I'm just a simple young man trying to create useful, not seen before software in Open-Source style.
+On GitHub, I try to create useful, not seen before software in Open-Source style.
 </p>
 <p align="center">
 Although it's not my favorite type of project in particular, I tend to bring web-based ideas to fruition and have the most experience in this area.
@@ -28,7 +28,7 @@ Maybe it will reveal itself on one of the following stats sometime ⏳?
 Besides being interested in anything related to computer science, I'm kind of a train nerd 🚂🤓.
 </p>
 <p align="center">
-Oh, and my music taste? I mostly listen to metal 🎸 and meme-type 🤪 music.
+Oh, and my music taste? I mostly listen to metal 🤘.
 </p>
 <hr>
 <p align = "center">
