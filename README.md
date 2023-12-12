@@ -2,7 +2,7 @@
 <img alt="View stats" src="https://komarev.com/ghpvc/?username=jvllmr&color=brightgreen">
 </p>
 
-<h2>Intro<h2>
+<h2>Intro</h2>
 <p align="center">
 Hello there! 👋🏻
 It's me, Jan Vollmer. A 22 y/o computer science student from nothern Germany.
