@@ -40,23 +40,23 @@ Oh, and my music taste? I mostly listen to metal 🤘.
 <li>Dev workflow integration for LibCST (pre-commit, VSCode)</li>
 <li>Run CI with different dependency versions with support for many different lock files</li>
 </div>
-<div style="margin-left: 5px"><h3>Maintained</h3>
-<li><a href="component-titles">component-titles</a>: Component-bound titles for React and Solid</li>
-<li><a href="pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
-<li><a href="poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
-<li><a href="fastapi-inferring-depends">fastapi-inferring-depends</a>: FastAPI Depends with typing overloads</li>
-<li><a href="fastapi-deferred-init">fastapi-deferred-init</a>: Faster FastAPI boot time for Applications with nested routers</li>
+<div ><h3>Maintained</h3>
+<li><a href="https://github.com/jvllmr/component-titles">component-titles</a>: Component-bound titles for React and Solid</li>
+<li><a href="https://github.com/jvllmr/pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
+<li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
+<li><a href="https://github.com/jvllmr/fastapi-inferring-depends">fastapi-inferring-depends</a>: FastAPI Depends with typing overloads</li>
+<li><a href="https://github.com/jvllmr/fastapi-deferred-init">fastapi-deferred-init</a>: Faster FastAPI boot time for Applications with nested routers</li>
 </div>
 
 </div>
 <div style="display: flex; justify-content: space-between">
 <div><h3>Archived</h3>
-<li><a href="csgo-inv-shuffle">csgo-inv-shuffle</a>: Python library for generating CS:GO shuffle configs</li>
-<li><a href="csgo-inv-shuffle-web">csgo-inv-suffle-web</a>: Website for generating CS:GO shuffle configs</li>
-<li><a href="debian-repo-scrape">debian-repo-scrape</a>: Python library for scraping Debian repositories (APT)</li>
-<li><a href="react-use-dom-title-hook">react-use-dom-title-hook</a>: React hook for component-based DOM titles (now <a href="component-titles">component-titles</a>)</li>
+<li><a href="https://github.com/jvllmr/csgo-inv-shuffle">csgo-inv-shuffle</a>: Python library for generating CS:GO shuffle configs</li>
+<li><a href="https://github.com/jvllmr/csgo-inv-shuffle-web">csgo-inv-suffle-web</a>: Website for generating CS:GO shuffle configs</li>
+<li><a href="https://github.com/jvllmr/debian-repo-scrape">debian-repo-scrape</a>: Python library for scraping Debian repositories (APT)</li>
+<li><a href="https://github.com/jvllmr/react-use-dom-title-hook">react-use-dom-title-hook</a>: React hook for component-based DOM titles (now <a href="https://github.com/jvllmr/component-titles">component-titles</a>)</li>
 </div>
-<div style="margin-left: 5px"><h3>Honorable mentions (Ideas I'm not really confident in)</h3>
+<div ><h3>Honorable mentions (Ideas I'm not really confident in)</h3>
 <li>drit: Create Debian repository indices to eliminate the need to re-visit vendor websites the second time you want to install specific software. Combined with an intelligent wrapper around apt/<a href="https://gitlab.com/volian/nala">nala</a></li>
 </div>
 </div>
