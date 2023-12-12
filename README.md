@@ -18,7 +18,7 @@ That is one of the reasons why I first started gaining advanced coding experienc
 One of the other programming languages I want to learn soon is Rust 🦀, but I haven't found a suitable project idea for me to test it out yet 🤷🏻‍♂️.
 Maybe it will reveal itself on one of the following stats sometime ⏳?
 </p>
-<h2>Stats<h2>
+<h2>Stats</h2>
 <p align="center">
 <img alt="Stats" align="left" src="https://github-readme-stats.kreyoo.vercel.app/api?username=jvllmr&theme=synthwave&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img alt="Stats2" align="center" src="https://github-readme-stats.kreyoo.vercel.app/api/top-langs/?username=jvllmr&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&count_private=true&text_color=fff">
