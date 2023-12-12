@@ -1,7 +1,8 @@
 <p align="center" />
 <img alt="View stats" src="https://komarev.com/ghpvc/?username=jvllmr&color=brightgreen">
 </p>
-<hr>
+
+<h2>Intro<h2>
 <p align="center">
 Hello there! 👋🏻
 It's me, Jan Vollmer. A 22 y/o computer science student from nothern Germany.
@@ -17,21 +18,10 @@ That is one of the reasons why I first started gaining advanced coding experienc
 One of the other programming languages I want to learn soon is Rust 🦀, but I haven't found a suitable project idea for me to test it out yet 🤷🏻‍♂️.
 Maybe it will reveal itself on one of the following stats sometime ⏳?
 </p>
-<hr>
+<h2>Stats<h2>
 <p align="center">
 <img alt="Stats" align="left" src="https://github-readme-stats.kreyoo.vercel.app/api?username=jvllmr&theme=synthwave&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img alt="Stats2" align="center" src="https://github-readme-stats.kreyoo.vercel.app/api/top-langs/?username=jvllmr&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&count_private=true&text_color=fff">
-</p>
-<hr>
-<p align="center">
-Besides being interested in anything related to computer science, I'm kind of a train nerd 🚂🤓.
-</p>
-<p align="center">
-Oh, and my music taste? I mostly listen to metal 🤘.
-</p>
-<hr>
-<p align = "center">
- <a  href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </p>
 <h2>My Projects</h2>
 <div style="display: flex; justify-content: space-between">
@@ -60,3 +50,15 @@ Oh, and my music taste? I mostly listen to metal 🤘.
 <li>drit: Create Debian repository indices to eliminate the need to re-visit vendor websites the second time you want to install specific software. Combined with an intelligent wrapper around apt/<a href="https://gitlab.com/volian/nala">nala</a></li>
 </div>
 </div>
+<h2>Hobbies</h2>
+<p align="center">
+Besides being interested in anything related to computer science, I'm kind of a train nerd 🚂🤓.
+</p>
+<p align="center">
+Oh, and my music taste? I mostly listen to metal 🤘.
+</p>
+
+<p align = "center">
+ <a  href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
+</p>
+
