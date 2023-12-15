@@ -61,4 +61,3 @@ Oh, and my music taste? I mostly listen to metal 🤘.
 <p align = "center">
  <a  href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </p>
-
