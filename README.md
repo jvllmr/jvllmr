@@ -8,15 +8,16 @@ Hello there! 👋🏻
 It's me, Jan Vollmer. A 22 y/o computer science student from nothern Germany.
 </p>
 <p align="center">
-On GitHub, I try to create useful, not seen before software in Open-Source style.
+On GitHub, I try to create useful, not seen before tools in Open-Source style.
 </p>
 <p align="center">
 Although it's not my favorite type of project in particular, I tend to bring web-based ideas to fruition and have the most experience in this area.
 That is one of the reasons why I first started gaining advanced coding experience with Python 🐍 and most recently fell in love with TypeScript 🟦.
 </p>
 <p align="center">
-One of the other programming languages I want to learn soon is Rust 🦀, but I haven't found a suitable project idea for me to test it out yet 🤷🏻‍♂️.
-Maybe it will reveal itself on one of the following stats sometime ⏳?
+One of the other programming languages I want to learn soon is Rust 🦀.
+A first project is hopefully coming soon.
+
 </p>
 <h2>Stats</h2>
 <p align="center">
@@ -26,11 +27,12 @@ Maybe it will reveal itself on one of the following stats sometime ⏳?
 <h2>My Projects</h2>
 <div style="display: flex; justify-content: space-between">
 <div><h3>Planned</h3>
-
+<details>
 <li>Dev workflow integration for LibCST (pre-commit, VSCode)</li>
-<li>Run CI with different dependency versions with support for many different lock files</li>
+<li>Run CI with different dependency versions with support for many different lock files</li></details>
 </div>
 <div ><h3>Maintained</h3>
+<li><a href="https://github.com/jvllmr/sqlalchemy-sessionload">sqlalchemy-sessionload</a>: Load option for loading instances from session</li>
 <li><a href="https://github.com/jvllmr/component-titles">component-titles</a>: Component-bound titles for React and Solid</li>
 <li><a href="https://github.com/jvllmr/pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
@@ -41,19 +43,24 @@ Maybe it will reveal itself on one of the following stats sometime ⏳?
 </div>
 <div style="display: flex; justify-content: space-between">
 <div><h3>Archived</h3>
+<details>
 <li><a href="https://github.com/jvllmr/csgo-inv-shuffle">csgo-inv-shuffle</a>: Python library for generating CS:GO shuffle configs</li>
 <li><a href="https://github.com/jvllmr/csgo-inv-shuffle-web">csgo-inv-suffle-web</a>: Website for generating CS:GO shuffle configs</li>
 <li><a href="https://github.com/jvllmr/debian-repo-scrape">debian-repo-scrape</a>: Python library for scraping Debian repositories (APT)</li>
 <li><a href="https://github.com/jvllmr/react-use-dom-title-hook">react-use-dom-title-hook</a>: React hook for component-based DOM titles (now <a href="https://github.com/jvllmr/component-titles">component-titles</a>)</li>
+</details>
 </div>
 <div ><h3>Honorable mentions (Ideas I'm not really confident in)</h3>
+<details>
 <li>drit: Create Debian repository indices to eliminate the need to re-visit vendor websites the second time you want to install specific software. Combined with an intelligent wrapper around apt/<a href="https://gitlab.com/volian/nala">nala</a></li>
+</details>
 </div>
 </div>
 <h2>Hobbies</h2>
 <p align="center">
-Besides being interested in anything related to computer science, I'm kind of a train nerd 🚂🤓.
+Besides being interested in computer science topics, I'm kind of a train nerd 🚂🤓.
 </p>
+<p align="center">I also tend to waste my time in <a href="https://steamcommunity.com/id/idieddude">Counter-Strike</a></p>
 <p align="center">
 Oh, and my music taste? I mostly listen to metal 🤘.
 </p>
@@ -61,4 +68,3 @@ Oh, and my music taste? I mostly listen to metal 🤘.
 <p align = "center">
  <a  href="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
 </p>
-
