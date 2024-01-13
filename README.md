@@ -15,8 +15,8 @@ Although it's not my favorite type of project in particular, I tend to bring web
 That is one of the reasons why I first started gaining advanced coding experience with Python 🐍 and most recently fell in love with TypeScript 🟦.
 </p>
 <p align="center">
-One of the other programming languages I want to learn soon is Rust 🦀.
-A first project is hopefully coming soon.
+One programming language I want to get familiar with in the next year is Rust 🦀.
+A first project is hopefully coming soon 🙏.
 
 </p>
 <h2>Stats</h2>
@@ -62,7 +62,7 @@ Besides being interested in computer science topics, I'm kind of a train nerd �
 </p>
 <p align="center">I also tend to waste my time in <a href="https://steamcommunity.com/id/idieddude">Counter-Strike</a></p>
 <p align="center">
-Oh, and my music taste? I mostly listen to metal 🤘.
+Oh, and my music taste? I mostly listen to metal 🤘, but I also like phonk/rap.
 </p>
 
 <p align = "center">
