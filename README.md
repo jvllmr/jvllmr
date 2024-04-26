@@ -5,7 +5,7 @@
 <h2>Intro</h2>
 <p align="center">
 Hello there! 👋🏻
-It's me, Jan Vollmer. A 22 y/o computer science student from nothern Germany.
+It's me, Jan Vollmer. A 22 y/o Software Engineer from nothern Germany.
 </p>
 <p align="center">
 On GitHub, I try to create useful, not seen before tools in Open-Source style.
@@ -34,7 +34,6 @@ A first project is hopefully coming soon 🙏.
 <div ><h3>Maintained</h3>
 <li><a href="https://github.com/jvllmr/sqlalchemy-sessionload">sqlalchemy-sessionload</a>: Load option for loading instances from session</li>
 <li><a href="https://github.com/jvllmr/component-titles">component-titles</a>: Component-bound titles for React and Solid</li>
-<li><a href="https://github.com/jvllmr/pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
 <li><a href="https://github.com/jvllmr/fastapi-inferring-depends">fastapi-inferring-depends</a>: FastAPI Depends with typing overloads</li>
 <li><a href="https://github.com/jvllmr/fastapi-deferred-init">fastapi-deferred-init</a>: Faster FastAPI boot time for Applications with nested routers</li>
@@ -48,6 +47,7 @@ A first project is hopefully coming soon 🙏.
 <li><a href="https://github.com/jvllmr/csgo-inv-shuffle-web">csgo-inv-suffle-web</a>: Website for generating CS:GO shuffle configs</li>
 <li><a href="https://github.com/jvllmr/debian-repo-scrape">debian-repo-scrape</a>: Python library for scraping Debian repositories (APT)</li>
 <li><a href="https://github.com/jvllmr/react-use-dom-title-hook">react-use-dom-title-hook</a>: React hook for component-based DOM titles (now <a href="https://github.com/jvllmr/component-titles">component-titles</a>)</li>
+<li><a href="https://github.com/jvllmr/pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
 </details>
 </div>
 <div ><h3>Honorable mentions (Ideas I'm not really confident in)</h3>
