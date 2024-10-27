@@ -7,31 +7,17 @@
 Hello there! 👋🏻
 It's me, Jan Vollmer. A 22 y/o Software Engineer from nothern Germany.
 </p>
-<p align="center">
-On GitHub, I try to create useful, not seen before tools in Open-Source style.
-</p>
-<p align="center">
-Although it's not my favorite type of project in particular, I tend to bring web-based ideas to fruition and have the most experience in this area.
-That is one of the reasons why I first started gaining advanced coding experience with Python 🐍 and most recently fell in love with TypeScript 🟦.
-</p>
-<p align="center">
-One programming language I want to get familiar with in the next year is Rust 🦀.
-A first project is hopefully coming soon 🙏.
-
-</p>
 <h2>Stats</h2>
 <p align="center">
 <img alt="Stats" align="left" src="https://github-readme-stats.kreyoo.vercel.app/api?username=jvllmr&theme=synthwave&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img alt="Stats2" align="center" src="https://github-readme-stats.kreyoo.vercel.app/api/top-langs/?username=jvllmr&theme=synthwave&bg_color=30,e96443,904e95&title_color=fff&count_private=true&text_color=fff">
+<p align = "center">
+ <a  href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kreyoo&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/></a>
+</p>
 </p>
 <h2>My Projects</h2>
 <div style="display: flex; justify-content: space-between">
-<div><h3>Planned</h3>
-<details>
-<li>Dev workflow integration for LibCST (pre-commit, VSCode)</li>
-<li>Run CI with different dependency versions with support for many different lock files</li></details>
-</div>
-<div ><h3>Maintained</h3>
+<div ><h3>Maintaining</h3>
 <li><a href="https://github.com/jvllmr/sqlalchemy-sessionload">sqlalchemy-sessionload</a>: Load option for loading instances from session</li>
 <li><a href="https://github.com/jvllmr/component-titles">component-titles</a>: Component-bound titles for React and Solid</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
@@ -50,21 +36,4 @@ A first project is hopefully coming soon 🙏.
 <li><a href="https://github.com/jvllmr/pyaphid">pyaphid</a>: CLI for detecting calls to user-defined debugging-code in Python</li>
 </details>
 </div>
-<div ><h3>Honorable mentions (Ideas I'm not really confident in)</h3>
-<details>
-<li>drit: Create Debian repository indices to eliminate the need to re-visit vendor websites the second time you want to install specific software. Combined with an intelligent wrapper around apt/<a href="https://gitlab.com/volian/nala">nala</a></li>
-</details>
-</div>
-</div>
-<h2>Hobbies</h2>
-<p align="center">
-Besides being interested in computer science topics, I'm kind of a train nerd 🚂🤓.
-</p>
-<p align="center">I also tend to waste my time in <a href="https://steamcommunity.com/id/idieddude">Counter-Strike</a></p>
-<p align="center">
-Oh, and my music taste? I mostly listen to metal 🤘, but I also like phonk/rap.
-</p>
 
-<p align = "center">
- <a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=kreyoo&redirect=true"><img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=kreyoo&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true"/></a>
-</p>
