@@ -1,7 +1,3 @@
-<p align="center" />
-<img alt="View stats" src="https://komarev.com/ghpvc/?username=jvllmr&color=brightgreen">
-</p>
-
 <h2>Intro</h2>
 <p align="center">
 Hello there! 👋🏻
