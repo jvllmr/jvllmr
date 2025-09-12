@@ -14,7 +14,7 @@ It's me, Jan Vollmer. A 23 y/o Software Engineer from nothern Germany.
 <div ><h3>Maintaining</h3>
 <li><a href="https://github.com/jvllmr/mantine-resource-timeline">mantine-resource-timeline</a>: A customizable resource timeline based on Mantine</li>
 <li><a href="https://github.com/jvllmr/sqlalchemy-sessionload">sqlalchemy-sessionload</a>: Load option for loading instances from session</li>
-
+<li><a href="https://github.com/jvllmr/trove-setup">trove-setup</a>: Simple TUI app for managing trove classifiers in your pyproject.toml</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
 <li><a href="https://github.com/jvllmr/fastapi-inferring-depends">fastapi-inferring-depends</a>: FastAPI Depends with typing overloads</li>
 <li><a href="https://github.com/jvllmr/fastapi-deferred-init">fastapi-deferred-init</a>: Faster FastAPI boot time for Applications with nested routers</li>
