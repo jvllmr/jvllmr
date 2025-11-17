@@ -1,7 +1,7 @@
 <h2>Intro</h2>
 <p align="center">
 Hello there! 👋🏻
-It's me, Jan Vollmer. A 23 y/o Software Engineer from nothern Germany.
+It's me, Jan Vollmer. A 24 y/o Software Engineer from nothern Germany.
 </p>
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-evenly">
