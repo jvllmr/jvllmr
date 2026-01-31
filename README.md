@@ -2,8 +2,10 @@
 <p align="center">
 Hello there! 👋🏻
 It's me, Jan Vollmer. A 24 y/o Software Engineer from nothern Germany.
+<p align="center">
 As of January 2026 I'm in the process of migrating my Open-Source efforts to <a href="https://codeberg.org/jvllmr">Codeberg</a>.
 New activity from me will most likely happen there.
+</p>
 </p>
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-evenly">
