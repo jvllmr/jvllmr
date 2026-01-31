@@ -18,6 +18,7 @@ New activity from me will most likely happen there.
 <div ><h3>Maintaining</h3>
 <li><a href="https://github.com/jvllmr/fastapi-deferred-init">fastapi-deferred-init</a>: Faster FastAPI boot time for applications with nested routers</li>
 <li><a href="https://github.com/jvllmr/fastapi-inferring-depends">fastapi-inferring-depends</a>: FastAPI Depends with typing overloads</li>
+<li><a href="https://github.com/jvllmr/frans">frans</a>: A simple temporary filesharing service ready for Cloud Native</li>
 <li><a href="https://github.com/jvllmr/mantine-resource-timeline">mantine-resource-timeline</a>: A customizable resource timeline based on Mantine</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
 <li><a href="https://github.com/jvllmr/rustpython-unparser">rustpython-unparser</a>: A crate for unparsing rustpython ASTs</li>
