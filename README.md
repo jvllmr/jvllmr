@@ -21,7 +21,7 @@ New activity from me will most likely happen there.
 <li><a href="https://github.com/jvllmr/frans">frans</a>: A simple temporary filesharing service ready for Cloud Native</li>
 <li><a href="https://github.com/jvllmr/mantine-resource-timeline">mantine-resource-timeline</a>: A customizable resource timeline based on Mantine</li>
 <li><a href="https://github.com/jvllmr/poetry-types">poetry-types</a>: Simple poetry plugin for installing type stubs</li>
-<li><a href="https://github.com/jvllmr/rustpython-unparser">rustpython-unparser</a>: A crate for unparsing rustpython ASTs</li>
+<li><a href="https://codeberg.org/jvllmr/rustpython-unparser">rustpython-unparser (Codeberg)</a>: A crate for unparsing rustpython ASTs</li>
 <li><a href="https://github.com/jvllmr/sqlalchemy-sessionload">sqlalchemy-sessionload</a>: Load option for loading instances from session</li>
 <li><a href="https://github.com/jvllmr/trove-setup">trove-setup</a>: Simple TUI app for managing trove classifiers in your pyproject.toml</li>
 </div>
